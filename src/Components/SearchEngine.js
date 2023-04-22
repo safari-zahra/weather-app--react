@@ -80,7 +80,7 @@ let SearchEngine = () => {
                         <div className="row">
                             <div className="col-6">
                                 <div className="clearfix">
-                                    <img id="icon" src={infoTemp.icon}
+                                    <img id="icon" alt={""} src={infoTemp.icon}
                                          className="weather-icon float-left"/>
                                     <div className="float-left">
                                         <span className="temperature"
