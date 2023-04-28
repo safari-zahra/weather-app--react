@@ -5,7 +5,7 @@ import SearchEngine from './Components/SearchEngine';
 function App() {
   return (
     <div className="App">
-        <SearchEngine/>
+        <SearchEngine defaultCity={"paris"}/>
     </div>
   );
 }
