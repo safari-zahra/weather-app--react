@@ -112,7 +112,7 @@ let SearchEngine = ({defaultCity}) => {
                                 <div className="weather-forecast" id="forecast"></div>
                             </div>
                         </div>
-                        <div>This project is <a href= {"https://github.com/safari-zahra/weather-app--react"} target={"_blank"} rel={"noreferrer"}>open-sourced on GitHub</a> and <a href={"https://polite-otter-849dba.netlify.app/"} target={"_blank"} rel={"noreferrer"}>hosted on Netlify</a></div>
+                        <div>This project is <a href= {"https://github.com/safari-zahra/weather-app--react"} target={"_blank"} rel={"noreferrer"}>open-sourced on GitHub</a> and <a href={"https://polite-otter-weather-app-week4.netlify.app/"} target={"_blank"} rel={"noreferrer"}>hosted on Netlify</a></div>
 
                     </div>
                 </div>
